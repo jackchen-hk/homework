@@ -1,0 +1,7 @@
+,Automation Risk (%),Automation Risk (%),Automation Risk (%),Automation Risk (%),Median Salary (USD),Experience Required (Years),Remote Work Ratio (%),Gender Diversity (%),Job Title
+,mean,std,min,max,mean,mean,mean,mean,count
+cluster,,,,,,,,,
+0,50.37,28.79,0.0,99.99,118978.1,13.22,52.41,50.16,11045
+1,50.21,28.81,0.0,99.98,58977.72,11.01,47.15,49.76,12428
+2,50.71,29.09,0.05,99.84,90115.99,10.19,53.39,50.11,732
+3,49.56,28.53,0.03,99.97,101906.1,1.95,50.24,50.1,5795

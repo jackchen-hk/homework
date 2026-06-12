@@ -1,0 +1,416 @@
+support,itemsets,length
+0.3335,frozenset({'AI_High'}),1
+0.33176666666666665,frozenset({'AI_Low'}),1
+0.3347333333333333,frozenset({'AI_Moderate'}),1
+0.2001,frozenset({'Associate Degree'}),1
+0.20486666666666667,frozenset({'Bachelor’s Degree'}),1
+0.24963333333333335,frozenset({'Diversity_High'}),1
+0.2488,frozenset({'Diversity_Low'}),1
+0.25316666666666665,frozenset({'Diversity_Med'}),1
+0.2484,frozenset({'Diversity_VHigh'}),1
+0.1238,frozenset({'Education'}),1
+0.12983333333333333,frozenset({'Entertainment'}),1
+0.1424,frozenset({'Exp_Entry'}),1
+0.13863333333333333,frozenset({'Exp_Junior'}),1
+0.23866666666666667,frozenset({'Exp_Mid'}),1
+0.4803,frozenset({'Exp_Senior'}),1
+0.12403333333333333,frozenset({'Finance'}),1
+0.49546666666666667,frozenset({'Growth_Dec'}),1
+0.5045333333333333,frozenset({'Growth_Inc'}),1
+0.1257,frozenset({'Healthcare'}),1
+0.19666666666666666,frozenset({'High School'}),1
+0.1227,frozenset({'IT'}),1
+0.1285,frozenset({'Manufacturing'}),1
+0.20323333333333332,frozenset({'Master’s Degree'}),1
+0.19513333333333333,frozenset({'PhD'}),1
+0.24506666666666665,frozenset({'Remote_High'}),1
+0.2542,frozenset({'Remote_Low'}),1
+0.25003333333333333,frozenset({'Remote_Med'}),1
+0.2507,frozenset({'Remote_VHigh'}),1
+0.1234,frozenset({'Retail'}),1
+0.40023333333333333,frozenset({'Risk_High'}),1
+0.2974,frozenset({'Risk_Low'}),1
+0.3023666666666667,frozenset({'Risk_Medium'}),1
+0.25676666666666664,frozenset({'Salary_High'}),1
+0.246,frozenset({'Salary_Low'}),1
+0.2513666666666667,frozenset({'Salary_Med'}),1
+0.24586666666666668,frozenset({'Salary_VHigh'}),1
+0.12203333333333333,frozenset({'Transportation'}),1
+0.06706666666666666,"frozenset({'Associate Degree', 'AI_High'})",2
+0.06656666666666666,"frozenset({'AI_High', 'Bachelor’s Degree'})",2
+0.08343333333333333,"frozenset({'AI_High', 'Diversity_High'})",2
+0.0822,"frozenset({'AI_High', 'Diversity_Low'})",2
+0.0847,"frozenset({'Diversity_Med', 'AI_High'})",2
+0.08316666666666667,"frozenset({'AI_High', 'Diversity_VHigh'})",2
+0.0803,"frozenset({'AI_High', 'Exp_Mid'})",2
+0.15883333333333333,"frozenset({'AI_High', 'Exp_Senior'})",2
+0.16643333333333332,"frozenset({'Growth_Dec', 'AI_High'})",2
+0.16706666666666667,"frozenset({'AI_High', 'Growth_Inc'})",2
+0.0673,"frozenset({'AI_High', 'High School'})",2
+0.068,"frozenset({'AI_High', 'Master’s Degree'})",2
+0.06456666666666666,"frozenset({'AI_High', 'PhD'})",2
+0.08176666666666667,"frozenset({'AI_High', 'Remote_High'})",2
+0.0864,"frozenset({'Remote_Low', 'AI_High'})",2
+0.08403333333333333,"frozenset({'Remote_Med', 'AI_High'})",2
+0.0813,"frozenset({'AI_High', 'Remote_VHigh'})",2
+0.13453333333333334,"frozenset({'Risk_High', 'AI_High'})",2
+0.09893333333333333,"frozenset({'AI_High', 'Risk_Low'})",2
+0.10003333333333334,"frozenset({'Risk_Medium', 'AI_High'})",2
+0.086,"frozenset({'AI_High', 'Salary_High'})",2
+0.0818,"frozenset({'AI_High', 'Salary_Low'})",2
+0.08243333333333333,"frozenset({'AI_High', 'Salary_Med'})",2
+0.08326666666666667,"frozenset({'Salary_VHigh', 'AI_High'})",2
+0.06636666666666667,"frozenset({'Associate Degree', 'AI_Low'})",2
+0.0697,"frozenset({'AI_Low', 'Bachelor’s Degree'})",2
+0.08226666666666667,"frozenset({'Diversity_High', 'AI_Low'})",2
+0.0831,"frozenset({'Diversity_Low', 'AI_Low'})",2
+0.08433333333333333,"frozenset({'Diversity_Med', 'AI_Low'})",2
+0.08206666666666666,"frozenset({'AI_Low', 'Diversity_VHigh'})",2
+0.07896666666666667,"frozenset({'Exp_Mid', 'AI_Low'})",2
+0.15893333333333334,"frozenset({'Exp_Senior', 'AI_Low'})",2
+0.16483333333333333,"frozenset({'Growth_Dec', 'AI_Low'})",2
+0.16693333333333332,"frozenset({'Growth_Inc', 'AI_Low'})",2
+0.0633,"frozenset({'AI_Low', 'High School'})",2
+0.0672,"frozenset({'Master’s Degree', 'AI_Low'})",2
+0.0652,"frozenset({'PhD', 'AI_Low'})",2
+0.08186666666666667,"frozenset({'AI_Low', 'Remote_High'})",2
+0.08333333333333333,"frozenset({'Remote_Low', 'AI_Low'})",2
+0.0822,"frozenset({'Remote_Med', 'AI_Low'})",2
+0.08436666666666667,"frozenset({'AI_Low', 'Remote_VHigh'})",2
+0.13023333333333334,"frozenset({'Risk_High', 'AI_Low'})",2
+0.1001,"frozenset({'AI_Low', 'Risk_Low'})",2
+0.10143333333333333,"frozenset({'Risk_Medium', 'AI_Low'})",2
+0.0859,"frozenset({'AI_Low', 'Salary_High'})",2
+0.08046666666666667,"frozenset({'Salary_Low', 'AI_Low'})",2
+0.08403333333333333,"frozenset({'AI_Low', 'Salary_Med'})",2
+0.08136666666666667,"frozenset({'Salary_VHigh', 'AI_Low'})",2
+0.06666666666666667,"frozenset({'Associate Degree', 'AI_Moderate'})",2
+0.0686,"frozenset({'AI_Moderate', 'Bachelor’s Degree'})",2
+0.08393333333333333,"frozenset({'AI_Moderate', 'Diversity_High'})",2
+0.0835,"frozenset({'AI_Moderate', 'Diversity_Low'})",2
+0.08413333333333334,"frozenset({'Diversity_Med', 'AI_Moderate'})",2
+0.08316666666666667,"frozenset({'AI_Moderate', 'Diversity_VHigh'})",2
+0.0794,"frozenset({'Exp_Mid', 'AI_Moderate'})",2
+0.16253333333333334,"frozenset({'AI_Moderate', 'Exp_Senior'})",2
+0.1642,"frozenset({'Growth_Dec', 'AI_Moderate'})",2
+0.17053333333333334,"frozenset({'AI_Moderate', 'Growth_Inc'})",2
+0.06606666666666666,"frozenset({'AI_Moderate', 'High School'})",2
+0.06803333333333333,"frozenset({'AI_Moderate', 'Master’s Degree'})",2
+0.06536666666666667,"frozenset({'AI_Moderate', 'PhD'})",2
+0.08143333333333333,"frozenset({'AI_Moderate', 'Remote_High'})",2
+0.08446666666666666,"frozenset({'Remote_Low', 'AI_Moderate'})",2
+0.0838,"frozenset({'Remote_Med', 'AI_Moderate'})",2
+0.08503333333333334,"frozenset({'AI_Moderate', 'Remote_VHigh'})",2
+0.13546666666666668,"frozenset({'Risk_High', 'AI_Moderate'})",2
+0.09836666666666667,"frozenset({'AI_Moderate', 'Risk_Low'})",2
+0.1009,"frozenset({'Risk_Medium', 'AI_Moderate'})",2
+0.08486666666666667,"frozenset({'AI_Moderate', 'Salary_High'})",2
+0.08373333333333334,"frozenset({'AI_Moderate', 'Salary_Low'})",2
+0.0849,"frozenset({'AI_Moderate', 'Salary_Med'})",2
+0.08123333333333334,"frozenset({'Salary_VHigh', 'AI_Moderate'})",2
+0.050166666666666665,"frozenset({'Associate Degree', 'Diversity_Low'})",2
+0.0513,"frozenset({'Associate Degree', 'Diversity_Med'})",2
+0.09753333333333333,"frozenset({'Associate Degree', 'Exp_Senior'})",2
+0.09943333333333333,"frozenset({'Growth_Dec', 'Associate Degree'})",2
+0.10066666666666667,"frozenset({'Associate Degree', 'Growth_Inc'})",2
+0.05223333333333333,"frozenset({'Remote_Low', 'Associate Degree'})",2
+0.0803,"frozenset({'Associate Degree', 'Risk_High'})",2
+0.061,"frozenset({'Associate Degree', 'Risk_Low'})",2
+0.0588,"frozenset({'Risk_Medium', 'Associate Degree'})",2
+0.052366666666666666,"frozenset({'Associate Degree', 'Salary_High'})",2
+0.0514,"frozenset({'Associate Degree', 'Salary_Med'})",2
+0.0521,"frozenset({'Diversity_High', 'Bachelor’s Degree'})",2
+0.05216666666666667,"frozenset({'Diversity_Med', 'Bachelor’s Degree'})",2
+0.05106666666666667,"frozenset({'Bachelor’s Degree', 'Diversity_VHigh'})",2
+0.09866666666666667,"frozenset({'Exp_Senior', 'Bachelor’s Degree'})",2
+0.10133333333333333,"frozenset({'Growth_Dec', 'Bachelor’s Degree'})",2
+0.10353333333333334,"frozenset({'Growth_Inc', 'Bachelor’s Degree'})",2
+0.0507,"frozenset({'Bachelor’s Degree', 'Remote_High'})",2
+0.05176666666666667,"frozenset({'Remote_Low', 'Bachelor’s Degree'})",2
+0.05246666666666667,"frozenset({'Remote_Med', 'Bachelor’s Degree'})",2
+0.0805,"frozenset({'Risk_High', 'Bachelor’s Degree'})",2
+0.06196666666666667,"frozenset({'Risk_Low', 'Bachelor’s Degree'})",2
+0.0624,"frozenset({'Risk_Medium', 'Bachelor’s Degree'})",2
+0.051866666666666665,"frozenset({'Bachelor’s Degree', 'Salary_High'})",2
+0.0511,"frozenset({'Salary_Low', 'Bachelor’s Degree'})",2
+0.0522,"frozenset({'Bachelor’s Degree', 'Salary_Med'})",2
+0.0584,"frozenset({'Exp_Mid', 'Diversity_High'})",2
+0.12046666666666667,"frozenset({'Diversity_High', 'Exp_Senior'})",2
+0.12463333333333333,"frozenset({'Growth_Dec', 'Diversity_High'})",2
+0.125,"frozenset({'Growth_Inc', 'Diversity_High'})",2
+0.05023333333333333,"frozenset({'Diversity_High', 'PhD'})",2
+0.06246666666666666,"frozenset({'Diversity_High', 'Remote_High'})",2
+0.0627,"frozenset({'Remote_Low', 'Diversity_High'})",2
+0.062233333333333335,"frozenset({'Remote_Med', 'Diversity_High'})",2
+0.062233333333333335,"frozenset({'Diversity_High', 'Remote_VHigh'})",2
+0.0994,"frozenset({'Risk_High', 'Diversity_High'})",2
+0.07583333333333334,"frozenset({'Diversity_High', 'Risk_Low'})",2
+0.0744,"frozenset({'Risk_Medium', 'Diversity_High'})",2
+0.0655,"frozenset({'Diversity_High', 'Salary_High'})",2
+0.06043333333333333,"frozenset({'Diversity_High', 'Salary_Low'})",2
+0.062033333333333336,"frozenset({'Diversity_High', 'Salary_Med'})",2
+0.06166666666666667,"frozenset({'Salary_VHigh', 'Diversity_High'})",2
+0.0598,"frozenset({'Exp_Mid', 'Diversity_Low'})",2
+0.11956666666666667,"frozenset({'Exp_Senior', 'Diversity_Low'})",2
+0.1235,"frozenset({'Growth_Dec', 'Diversity_Low'})",2
+0.1253,"frozenset({'Growth_Inc', 'Diversity_Low'})",2
+0.05093333333333333,"frozenset({'Diversity_Low', 'High School'})",2
+0.050666666666666665,"frozenset({'Master’s Degree', 'Diversity_Low'})",2
+0.057666666666666665,"frozenset({'Diversity_Low', 'Remote_High'})",2
+0.06446666666666667,"frozenset({'Remote_Low', 'Diversity_Low'})",2
+0.06516666666666666,"frozenset({'Remote_Med', 'Diversity_Low'})",2
+0.0615,"frozenset({'Diversity_Low', 'Remote_VHigh'})",2
+0.10026666666666667,"frozenset({'Risk_High', 'Diversity_Low'})",2
+0.0728,"frozenset({'Diversity_Low', 'Risk_Low'})",2
+0.07573333333333333,"frozenset({'Risk_Medium', 'Diversity_Low'})",2
+0.06376666666666667,"frozenset({'Diversity_Low', 'Salary_High'})",2
+0.061233333333333334,"frozenset({'Diversity_Low', 'Salary_Low'})",2
+0.064,"frozenset({'Diversity_Low', 'Salary_Med'})",2
+0.0598,"frozenset({'Salary_VHigh', 'Diversity_Low'})",2
+0.0597,"frozenset({'Diversity_Med', 'Exp_Mid'})",2
+0.12206666666666667,"frozenset({'Diversity_Med', 'Exp_Senior'})",2
+0.1245,"frozenset({'Growth_Dec', 'Diversity_Med'})",2
+0.12866666666666668,"frozenset({'Diversity_Med', 'Growth_Inc'})",2
+0.0514,"frozenset({'Diversity_Med', 'Master’s Degree'})",2
+0.06413333333333333,"frozenset({'Diversity_Med', 'Remote_High'})",2
+0.06486666666666667,"frozenset({'Remote_Low', 'Diversity_Med'})",2
+0.0607,"frozenset({'Remote_Med', 'Diversity_Med'})",2
+0.06346666666666667,"frozenset({'Diversity_Med', 'Remote_VHigh'})",2
+0.10126666666666667,"frozenset({'Diversity_Med', 'Risk_High'})",2
+0.07426666666666666,"frozenset({'Diversity_Med', 'Risk_Low'})",2
+0.07763333333333333,"frozenset({'Risk_Medium', 'Diversity_Med'})",2
+0.0636,"frozenset({'Diversity_Med', 'Salary_High'})",2
+0.06416666666666666,"frozenset({'Diversity_Med', 'Salary_Low'})",2
+0.0635,"frozenset({'Diversity_Med', 'Salary_Med'})",2
+0.0619,"frozenset({'Salary_VHigh', 'Diversity_Med'})",2
+0.06076666666666666,"frozenset({'Exp_Mid', 'Diversity_VHigh'})",2
+0.1182,"frozenset({'Exp_Senior', 'Diversity_VHigh'})",2
+0.12283333333333334,"frozenset({'Growth_Dec', 'Diversity_VHigh'})",2
+0.12556666666666666,"frozenset({'Growth_Inc', 'Diversity_VHigh'})",2
+0.05173333333333333,"frozenset({'Master’s Degree', 'Diversity_VHigh'})",2
+0.0608,"frozenset({'Remote_High', 'Diversity_VHigh'})",2
+0.06216666666666667,"frozenset({'Remote_Low', 'Diversity_VHigh'})",2
+0.06193333333333333,"frozenset({'Remote_Med', 'Diversity_VHigh'})",2
+0.0635,"frozenset({'Remote_VHigh', 'Diversity_VHigh'})",2
+0.0993,"frozenset({'Risk_High', 'Diversity_VHigh'})",2
+0.0745,"frozenset({'Risk_Low', 'Diversity_VHigh'})",2
+0.0746,"frozenset({'Risk_Medium', 'Diversity_VHigh'})",2
+0.0639,"frozenset({'Salary_High', 'Diversity_VHigh'})",2
+0.06016666666666667,"frozenset({'Salary_Low', 'Diversity_VHigh'})",2
+0.06183333333333333,"frozenset({'Salary_Med', 'Diversity_VHigh'})",2
+0.0625,"frozenset({'Salary_VHigh', 'Diversity_VHigh'})",2
+0.0598,"frozenset({'Exp_Senior', 'Education'})",2
+0.0621,"frozenset({'Growth_Dec', 'Education'})",2
+0.0617,"frozenset({'Growth_Inc', 'Education'})",2
+0.06183333333333333,"frozenset({'Exp_Senior', 'Entertainment'})",2
+0.06416666666666666,"frozenset({'Growth_Dec', 'Entertainment'})",2
+0.06566666666666666,"frozenset({'Growth_Inc', 'Entertainment'})",2
+0.0525,"frozenset({'Risk_High', 'Entertainment'})",2
+0.07286666666666666,"frozenset({'Growth_Dec', 'Exp_Entry'})",2
+0.06953333333333334,"frozenset({'Growth_Inc', 'Exp_Entry'})",2
+0.055766666666666666,"frozenset({'Risk_High', 'Exp_Entry'})",2
+0.06893333333333333,"frozenset({'Growth_Dec', 'Exp_Junior'})",2
+0.0697,"frozenset({'Exp_Junior', 'Growth_Inc'})",2
+0.0553,"frozenset({'Risk_High', 'Exp_Junior'})",2
+0.11646666666666666,"frozenset({'Growth_Dec', 'Exp_Mid'})",2
+0.1222,"frozenset({'Exp_Mid', 'Growth_Inc'})",2
+0.0578,"frozenset({'Exp_Mid', 'Remote_High'})",2
+0.06093333333333333,"frozenset({'Remote_Low', 'Exp_Mid'})",2
+0.059833333333333336,"frozenset({'Remote_Med', 'Exp_Mid'})",2
+0.0601,"frozenset({'Exp_Mid', 'Remote_VHigh'})",2
+0.09666666666666666,"frozenset({'Risk_High', 'Exp_Mid'})",2
+0.07233333333333333,"frozenset({'Exp_Mid', 'Risk_Low'})",2
+0.06966666666666667,"frozenset({'Risk_Medium', 'Exp_Mid'})",2
+0.060066666666666664,"frozenset({'Exp_Mid', 'Salary_High'})",2
+0.060066666666666664,"frozenset({'Exp_Mid', 'Salary_Low'})",2
+0.05943333333333333,"frozenset({'Exp_Mid', 'Salary_Med'})",2
+0.0591,"frozenset({'Salary_VHigh', 'Exp_Mid'})",2
+0.059866666666666665,"frozenset({'Finance', 'Exp_Senior'})",2
+0.2372,"frozenset({'Growth_Dec', 'Exp_Senior'})",2
+0.2431,"frozenset({'Growth_Inc', 'Exp_Senior'})",2
+0.0609,"frozenset({'Healthcare', 'Exp_Senior'})",2
+0.09226666666666666,"frozenset({'Exp_Senior', 'High School'})",2
+0.0599,"frozenset({'IT', 'Exp_Senior'})",2
+0.0614,"frozenset({'Exp_Senior', 'Manufacturing'})",2
+0.09836666666666667,"frozenset({'Exp_Senior', 'Master’s Degree'})",2
+0.09346666666666667,"frozenset({'Exp_Senior', 'PhD'})",2
+0.11873333333333333,"frozenset({'Exp_Senior', 'Remote_High'})",2
+0.1209,"frozenset({'Remote_Low', 'Exp_Senior'})",2
+0.1201,"frozenset({'Remote_Med', 'Exp_Senior'})",2
+0.12056666666666667,"frozenset({'Exp_Senior', 'Remote_VHigh'})",2
+0.05873333333333333,"frozenset({'Retail', 'Exp_Senior'})",2
+0.1925,"frozenset({'Risk_High', 'Exp_Senior'})",2
+0.14096666666666666,"frozenset({'Exp_Senior', 'Risk_Low'})",2
+0.14683333333333334,"frozenset({'Risk_Medium', 'Exp_Senior'})",2
+0.12333333333333334,"frozenset({'Exp_Senior', 'Salary_High'})",2
+0.11686666666666666,"frozenset({'Exp_Senior', 'Salary_Low'})",2
+0.122,"frozenset({'Exp_Senior', 'Salary_Med'})",2
+0.1181,"frozenset({'Salary_VHigh', 'Exp_Senior'})",2
+0.057866666666666663,"frozenset({'Exp_Senior', 'Transportation'})",2
+0.0607,"frozenset({'Growth_Dec', 'Finance'})",2
+0.06333333333333334,"frozenset({'Finance', 'Growth_Inc'})",2
+0.0506,"frozenset({'Finance', 'Risk_High'})",2
+0.06113333333333333,"frozenset({'Growth_Dec', 'Healthcare'})",2
+0.09856666666666666,"frozenset({'Growth_Dec', 'High School'})",2
+0.0603,"frozenset({'Growth_Dec', 'IT'})",2
+0.06466666666666666,"frozenset({'Growth_Dec', 'Manufacturing'})",2
+0.1019,"frozenset({'Growth_Dec', 'Master’s Degree'})",2
+0.09423333333333334,"frozenset({'Growth_Dec', 'PhD'})",2
+0.12243333333333334,"frozenset({'Growth_Dec', 'Remote_High'})",2
+0.12553333333333333,"frozenset({'Growth_Dec', 'Remote_Low'})",2
+0.12493333333333333,"frozenset({'Growth_Dec', 'Remote_Med'})",2
+0.12256666666666667,"frozenset({'Growth_Dec', 'Remote_VHigh'})",2
+0.06236666666666667,"frozenset({'Retail', 'Growth_Dec'})",2
+0.19843333333333332,"frozenset({'Growth_Dec', 'Risk_High'})",2
+0.14666666666666667,"frozenset({'Growth_Dec', 'Risk_Low'})",2
+0.15036666666666668,"frozenset({'Risk_Medium', 'Growth_Dec'})",2
+0.12616666666666668,"frozenset({'Growth_Dec', 'Salary_High'})",2
+0.1222,"frozenset({'Growth_Dec', 'Salary_Low'})",2
+0.12466666666666666,"frozenset({'Growth_Dec', 'Salary_Med'})",2
+0.12243333333333334,"frozenset({'Salary_VHigh', 'Growth_Dec'})",2
+0.060033333333333334,"frozenset({'Growth_Dec', 'Transportation'})",2
+0.06456666666666666,"frozenset({'Healthcare', 'Growth_Inc'})",2
+0.0981,"frozenset({'Growth_Inc', 'High School'})",2
+0.0624,"frozenset({'IT', 'Growth_Inc'})",2
+0.06383333333333334,"frozenset({'Growth_Inc', 'Manufacturing'})",2
+0.10133333333333333,"frozenset({'Growth_Inc', 'Master’s Degree'})",2
+0.1009,"frozenset({'Growth_Inc', 'PhD'})",2
+0.12263333333333333,"frozenset({'Growth_Inc', 'Remote_High'})",2
+0.12866666666666668,"frozenset({'Remote_Low', 'Growth_Inc'})",2
+0.1251,"frozenset({'Remote_Med', 'Growth_Inc'})",2
+0.12813333333333332,"frozenset({'Growth_Inc', 'Remote_VHigh'})",2
+0.061033333333333335,"frozenset({'Retail', 'Growth_Inc'})",2
+0.2018,"frozenset({'Risk_High', 'Growth_Inc'})",2
+0.15073333333333333,"frozenset({'Growth_Inc', 'Risk_Low'})",2
+0.152,"frozenset({'Risk_Medium', 'Growth_Inc'})",2
+0.1306,"frozenset({'Growth_Inc', 'Salary_High'})",2
+0.1238,"frozenset({'Growth_Inc', 'Salary_Low'})",2
+0.1267,"frozenset({'Growth_Inc', 'Salary_Med'})",2
+0.12343333333333334,"frozenset({'Salary_VHigh', 'Growth_Inc'})",2
+0.062,"frozenset({'Growth_Inc', 'Transportation'})",2
+0.05123333333333333,"frozenset({'Healthcare', 'Risk_High'})",2
+0.050866666666666664,"frozenset({'Remote_Low', 'High School'})",2
+0.07823333333333334,"frozenset({'Risk_High', 'High School'})",2
+0.057966666666666666,"frozenset({'Risk_Low', 'High School'})",2
+0.06046666666666667,"frozenset({'Risk_Medium', 'High School'})",2
+0.0506,"frozenset({'High School', 'Salary_High'})",2
+0.05096666666666667,"frozenset({'Risk_High', 'Manufacturing'})",2
+0.0507,"frozenset({'Master’s Degree', 'Remote_High'})",2
+0.051,"frozenset({'Remote_Low', 'Master’s Degree'})",2
+0.050866666666666664,"frozenset({'Remote_Med', 'Master’s Degree'})",2
+0.050666666666666665,"frozenset({'Master’s Degree', 'Remote_VHigh'})",2
+0.08216666666666667,"frozenset({'Risk_High', 'Master’s Degree'})",2
+0.06046666666666667,"frozenset({'Master’s Degree', 'Risk_Low'})",2
+0.0606,"frozenset({'Risk_Medium', 'Master’s Degree'})",2
+0.0528,"frozenset({'Master’s Degree', 'Salary_High'})",2
+0.0501,"frozenset({'Master’s Degree', 'Salary_Med'})",2
+0.051166666666666666,"frozenset({'Salary_VHigh', 'Master’s Degree'})",2
+0.0508,"frozenset({'PhD', 'Remote_VHigh'})",2
+0.07903333333333333,"frozenset({'Risk_High', 'PhD'})",2
+0.056,"frozenset({'PhD', 'Risk_Low'})",2
+0.0601,"frozenset({'Risk_Medium', 'PhD'})",2
+0.09993333333333333,"frozenset({'Risk_High', 'Remote_High'})",2
+0.07113333333333334,"frozenset({'Risk_Low', 'Remote_High'})",2
+0.074,"frozenset({'Risk_Medium', 'Remote_High'})",2
+0.0637,"frozenset({'Salary_High', 'Remote_High'})",2
+0.06016666666666667,"frozenset({'Salary_Low', 'Remote_High'})",2
+0.062033333333333336,"frozenset({'Salary_Med', 'Remote_High'})",2
+0.059166666666666666,"frozenset({'Salary_VHigh', 'Remote_High'})",2
+0.09943333333333333,"frozenset({'Remote_Low', 'Risk_High'})",2
+0.07743333333333334,"frozenset({'Remote_Low', 'Risk_Low'})",2
+0.07733333333333334,"frozenset({'Risk_Medium', 'Remote_Low'})",2
+0.06553333333333333,"frozenset({'Remote_Low', 'Salary_High'})",2
+0.0627,"frozenset({'Remote_Low', 'Salary_Low'})",2
+0.06336666666666667,"frozenset({'Remote_Low', 'Salary_Med'})",2
+0.0626,"frozenset({'Salary_VHigh', 'Remote_Low'})",2
+0.10106666666666667,"frozenset({'Remote_Med', 'Risk_High'})",2
+0.07386666666666666,"frozenset({'Remote_Med', 'Risk_Low'})",2
+0.0751,"frozenset({'Risk_Medium', 'Remote_Med'})",2
+0.06246666666666666,"frozenset({'Remote_Med', 'Salary_High'})",2
+0.06113333333333333,"frozenset({'Remote_Med', 'Salary_Low'})",2
+0.06376666666666667,"frozenset({'Remote_Med', 'Salary_Med'})",2
+0.06266666666666666,"frozenset({'Salary_VHigh', 'Remote_Med'})",2
+0.0998,"frozenset({'Risk_High', 'Remote_VHigh'})",2
+0.07496666666666667,"frozenset({'Risk_Low', 'Remote_VHigh'})",2
+0.07593333333333334,"frozenset({'Risk_Medium', 'Remote_VHigh'})",2
+0.06506666666666666,"frozenset({'Salary_High', 'Remote_VHigh'})",2
+0.062,"frozenset({'Salary_Low', 'Remote_VHigh'})",2
+0.0622,"frozenset({'Remote_VHigh', 'Salary_Med'})",2
+0.06143333333333333,"frozenset({'Salary_VHigh', 'Remote_VHigh'})",2
+0.10246666666666666,"frozenset({'Risk_High', 'Salary_High'})",2
+0.09843333333333333,"frozenset({'Risk_High', 'Salary_Low'})",2
+0.09926666666666667,"frozenset({'Risk_High', 'Salary_Med'})",2
+0.10006666666666666,"frozenset({'Salary_VHigh', 'Risk_High'})",2
+0.07756666666666667,"frozenset({'Risk_Low', 'Salary_High'})",2
+0.0735,"frozenset({'Salary_Low', 'Risk_Low'})",2
+0.07493333333333334,"frozenset({'Risk_Low', 'Salary_Med'})",2
+0.0714,"frozenset({'Salary_VHigh', 'Risk_Low'})",2
+0.07673333333333333,"frozenset({'Risk_Medium', 'Salary_High'})",2
+0.07406666666666667,"frozenset({'Risk_Medium', 'Salary_Low'})",2
+0.07716666666666666,"frozenset({'Risk_Medium', 'Salary_Med'})",2
+0.0744,"frozenset({'Salary_VHigh', 'Risk_Medium'})",2
+0.0795,"frozenset({'Growth_Dec', 'AI_High', 'Exp_Senior'})",3
+0.07933333333333334,"frozenset({'AI_High', 'Growth_Inc', 'Exp_Senior'})",3
+0.065,"frozenset({'Risk_High', 'AI_High', 'Exp_Senior'})",3
+0.0668,"frozenset({'Risk_High', 'Growth_Dec', 'AI_High'})",3
+0.0504,"frozenset({'Risk_Medium', 'Growth_Dec', 'AI_High'})",3
+0.06773333333333334,"frozenset({'Risk_High', 'AI_High', 'Growth_Inc'})",3
+0.0784,"frozenset({'Growth_Dec', 'Exp_Senior', 'AI_Low'})",3
+0.08053333333333333,"frozenset({'Growth_Inc', 'Exp_Senior', 'AI_Low'})",3
+0.061566666666666665,"frozenset({'Risk_High', 'Exp_Senior', 'AI_Low'})",3
+0.05006666666666667,"frozenset({'Risk_Medium', 'Exp_Senior', 'AI_Low'})",3
+0.0652,"frozenset({'Growth_Dec', 'Risk_High', 'AI_Low'})",3
+0.06503333333333333,"frozenset({'Risk_High', 'Growth_Inc', 'AI_Low'})",3
+0.0502,"frozenset({'Growth_Inc', 'AI_Low', 'Risk_Low'})",3
+0.0517,"frozenset({'Risk_Medium', 'Growth_Inc', 'AI_Low'})",3
+0.0793,"frozenset({'Growth_Dec', 'AI_Moderate', 'Exp_Senior'})",3
+0.08323333333333334,"frozenset({'AI_Moderate', 'Growth_Inc', 'Exp_Senior'})",3
+0.06593333333333333,"frozenset({'Risk_High', 'AI_Moderate', 'Exp_Senior'})",3
+0.06643333333333333,"frozenset({'Growth_Dec', 'Risk_High', 'AI_Moderate'})",3
+0.05023333333333333,"frozenset({'Risk_Medium', 'Growth_Dec', 'AI_Moderate'})",3
+0.06903333333333334,"frozenset({'AI_Moderate', 'Risk_High', 'Growth_Inc'})",3
+0.050833333333333335,"frozenset({'AI_Moderate', 'Growth_Inc', 'Risk_Low'})",3
+0.050666666666666665,"frozenset({'AI_Moderate', 'Risk_Medium', 'Growth_Inc'})",3
+0.05,"frozenset({'Growth_Inc', 'Bachelor’s Degree', 'Exp_Senior'})",3
+0.0591,"frozenset({'Growth_Dec', 'Diversity_High', 'Exp_Senior'})",3
+0.06136666666666667,"frozenset({'Growth_Inc', 'Diversity_High', 'Exp_Senior'})",3
+0.05023333333333333,"frozenset({'Growth_Dec', 'Risk_High', 'Diversity_High'})",3
+0.0582,"frozenset({'Growth_Dec', 'Exp_Senior', 'Diversity_Low'})",3
+0.06136666666666667,"frozenset({'Growth_Inc', 'Diversity_Low', 'Exp_Senior'})",3
+0.050366666666666664,"frozenset({'Growth_Dec', 'Risk_High', 'Diversity_Low'})",3
+0.06063333333333333,"frozenset({'Growth_Dec', 'Diversity_Med', 'Exp_Senior'})",3
+0.06143333333333333,"frozenset({'Diversity_Med', 'Growth_Inc', 'Exp_Senior'})",3
+0.0513,"frozenset({'Diversity_Med', 'Risk_High', 'Growth_Inc'})",3
+0.05926666666666667,"frozenset({'Growth_Dec', 'Exp_Senior', 'Diversity_VHigh'})",3
+0.05893333333333333,"frozenset({'Exp_Senior', 'Growth_Inc', 'Diversity_VHigh'})",3
+0.05143333333333333,"frozenset({'Risk_High', 'Growth_Inc', 'Diversity_VHigh'})",3
+0.05896666666666667,"frozenset({'Growth_Dec', 'Exp_Senior', 'Remote_High'})",3
+0.06043333333333333,"frozenset({'Growth_Dec', 'Remote_Low', 'Exp_Senior'})",3
+0.059866666666666665,"frozenset({'Growth_Dec', 'Exp_Senior', 'Remote_Med'})",3
+0.05793333333333334,"frozenset({'Growth_Dec', 'Exp_Senior', 'Remote_VHigh'})",3
+0.0962,"frozenset({'Growth_Dec', 'Risk_High', 'Exp_Senior'})",3
+0.06846666666666666,"frozenset({'Growth_Dec', 'Exp_Senior', 'Risk_Low'})",3
+0.07253333333333334,"frozenset({'Risk_Medium', 'Growth_Dec', 'Exp_Senior'})",3
+0.06043333333333333,"frozenset({'Growth_Dec', 'Exp_Senior', 'Salary_High'})",3
+0.05803333333333333,"frozenset({'Growth_Dec', 'Exp_Senior', 'Salary_Low'})",3
+0.059533333333333334,"frozenset({'Growth_Dec', 'Exp_Senior', 'Salary_Med'})",3
+0.0592,"frozenset({'Salary_VHigh', 'Growth_Dec', 'Exp_Senior'})",3
+0.05976666666666667,"frozenset({'Exp_Senior', 'Growth_Inc', 'Remote_High'})",3
+0.06046666666666667,"frozenset({'Remote_Low', 'Growth_Inc', 'Exp_Senior'})",3
+0.06023333333333333,"frozenset({'Remote_Med', 'Growth_Inc', 'Exp_Senior'})",3
+0.06263333333333333,"frozenset({'Exp_Senior', 'Growth_Inc', 'Remote_VHigh'})",3
+0.0963,"frozenset({'Risk_High', 'Growth_Inc', 'Exp_Senior'})",3
+0.0725,"frozenset({'Growth_Inc', 'Risk_Low', 'Exp_Senior'})",3
+0.0743,"frozenset({'Risk_Medium', 'Growth_Inc', 'Exp_Senior'})",3
+0.0629,"frozenset({'Growth_Inc', 'Salary_High', 'Exp_Senior'})",3
+0.058833333333333335,"frozenset({'Growth_Inc', 'Salary_Low', 'Exp_Senior'})",3
+0.06246666666666666,"frozenset({'Exp_Senior', 'Growth_Inc', 'Salary_Med'})",3
+0.0589,"frozenset({'Salary_VHigh', 'Growth_Inc', 'Exp_Senior'})",3
+0.05006666666666667,"frozenset({'Growth_Dec', 'Risk_High', 'Remote_Med'})",3
+0.05096666666666667,"frozenset({'Growth_Dec', 'Risk_High', 'Salary_High'})",3
+0.05043333333333333,"frozenset({'Risk_High', 'Growth_Inc', 'Remote_High'})",3
+0.051,"frozenset({'Remote_Med', 'Risk_High', 'Growth_Inc'})",3
+0.05076666666666667,"frozenset({'Risk_High', 'Growth_Inc', 'Remote_VHigh'})",3
+0.0515,"frozenset({'Risk_High', 'Growth_Inc', 'Salary_High'})",3
+0.05,"frozenset({'Risk_High', 'Growth_Inc', 'Salary_Low'})",3
+0.0505,"frozenset({'Salary_VHigh', 'Risk_High', 'Growth_Inc'})",3

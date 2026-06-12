@@ -1,0 +1,38 @@
+feature,importance_split,importance_gain
+Median Salary (USD),296,1369.4377864003181
+Experience Required (Years),92,373.56775963306427
+Job Openings (2024),288,1318.8706684112549
+Projected Openings (2030),267,1224.1398864388466
+Remote Work Ratio (%),331,1503.601401090622
+Gender Diversity (%),410,1898.5893094539642
+growth_rate,190,881.5787190198898
+salary_per_experience,307,1457.5214912891388
+job_density,246,1127.8049302101135
+salary_remote_interaction,338,1579.3479181528091
+growth_impact_interaction,256,1200.39846098423
+salary_experience_interaction,272,1314.0519287586212
+diversity_growth_interaction,227,1047.790629595518
+remote_growth_interaction,224,993.2182972431183
+salary_zscore,128,597.2582794427872
+education_encoded,49,209.86817073822021
+impact_encoded,45,172.75768983364105
+status_encoded,26,94.11623954772949
+experience_level_encoded,4,17.63254964351654
+salary_level_encoded,2,7.130280017852783
+remote_level_encoded,6,27.79408025741577
+growth_category_encoded,0,0.0
+job_title_encoded,419,5126.51666110754
+Industry_Entertainment,11,53.25678992271423
+Industry_Finance,19,81.86003041267395
+Industry_Healthcare,8,32.969409465789795
+Industry_IT,9,41.53929948806763
+Industry_Manufacturing,12,57.68319034576416
+Industry_Retail,38,162.03534030914307
+Industry_Transportation,11,68.69774842262268
+Location_Brazil,10,37.62034010887146
+Location_Canada,14,59.41400980949402
+Location_China,16,70.59187030792236
+Location_Germany,20,82.39526009559631
+Location_India,9,45.58432936668396
+Location_UK,10,50.2367103099823
+Location_USA,10,45.41856932640076

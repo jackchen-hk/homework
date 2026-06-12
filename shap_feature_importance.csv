@@ -1,0 +1,38 @@
+feature,mean_abs_shap
+job_title_encoded,0.1115489651591502
+growth_impact_interaction,0.057256999476804994
+Gender Diversity (%),0.052758878767476015
+Projected Openings (2030),0.047773616626633715
+salary_remote_interaction,0.047511259633294854
+salary_experience_interaction,0.04481403851366128
+remote_growth_interaction,0.04479944968917544
+Job Openings (2024),0.04399217557865593
+Remote Work Ratio (%),0.04271360251435244
+diversity_growth_interaction,0.04140701691631935
+growth_rate,0.04084882918590673
+job_density,0.04036260940321975
+salary_per_experience,0.038882341110302886
+Median Salary (USD),0.03591455216577146
+salary_zscore,0.03052749001620328
+Experience Required (Years),0.023180605406332783
+education_encoded,0.014706963274537842
+status_encoded,0.011756202754444256
+impact_encoded,0.01030596771579831
+Industry_Retail,0.0097095215834839
+Location_Canada,0.006914549161649388
+Industry_Entertainment,0.005917051989986555
+Industry_Finance,0.005890076697476136
+Industry_Transportation,0.005761580960746346
+Industry_Manufacturing,0.005720430885237768
+Location_China,0.0051808113265251685
+Location_Brazil,0.005149674395506162
+Location_India,0.004518797705339536
+Industry_IT,0.003948057784694187
+Location_Germany,0.0038637420446428366
+Location_USA,0.003717241136242377
+Industry_Healthcare,0.0035715260354951452
+Location_UK,0.003560808711233495
+experience_level_encoded,0.002778149007408149
+remote_level_encoded,0.0019499453054411238
+growth_category_encoded,0.0015809649568632094
+salary_level_encoded,0.0003969283053400902
